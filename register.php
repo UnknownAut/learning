@@ -48,7 +48,7 @@
   
   
   <div class="center">
-<form class="form-signin">
+<form class="form-signin" action="POST" >
   <div class="text-center mb-4">
     <img class="mb-4" src="/docs/4.4/assets/brand/bootstrap-solid.svg" alt="" width="72" height="72">
     <h1 class="h3 mb-3 font-weight-normal">Registrierung</h1>
